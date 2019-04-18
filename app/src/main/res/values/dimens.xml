@@ -1,0 +1,9 @@
+<resources>
+    <dimen name="listview_width">320dp</dimen>
+    <dimen name="item_height">72dp</dimen>
+
+    <dimen name="S24">24sp</dimen>
+    <dimen name="S28">28sp</dimen>
+    <dimen name="S32">32sp</dimen>
+    <dimen name="S36">36sp</dimen>
+</resources>
