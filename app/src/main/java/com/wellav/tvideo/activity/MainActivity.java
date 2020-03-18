@@ -324,7 +324,7 @@ public class MainActivity extends BaseActivity implements View.OnClickListener, 
         isPlay = true;
         try {
             String url = mCurrentChannel.getPlayUrl();
-            videoView.setVideoURI(Uri.parse(Environment.getExternalStorageDirectory() + "/12/" + url));
+            videoView.setVideoURI(Uri.parse(url));
             videoView.setOnCompletionListener(this);
             videoView.setOnBufferingUpdateListener(this);
             videoView.setOnErrorListener(this);
@@ -357,7 +357,7 @@ public class MainActivity extends BaseActivity implements View.OnClickListener, 
     @Override
     public void onPrepared(MediaPlayer arg0) {
         //设置视频缓冲大小, 默认1024KB, 单位byte
-        videoView.setBufferSize(1024);
+        videoView.setBufferSize(1024*10);
         if (pauseSize > 0) {
             videoView.seekTo(pauseSize);
         }

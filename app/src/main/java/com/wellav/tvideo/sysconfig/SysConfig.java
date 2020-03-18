@@ -20,202 +20,7 @@ public class SysConfig {
             "            \"allowRecord\": false," +
             "            \"protocol\": \"hls0\"," +
             "            \"name\": \"mp4-1\"," +
-            "            \"playUrl\": \"test1.mp4\"" +
-            "        }," +
-            "        {" +
-            "            \"provider\": \"ott\"," +
-            "            \"guid\": \"c4969444-1feb-49de-af20-0fc6feb6b4c5\"," +
-            "            \"level\": \"I\"," +
-            "            \"type\": \"live\"," +
-            "            \"hits\": 0," +
-            "            \"channelId\": 1," +
-            "            \"catchupDays\": 0," +
-            "            \"allowRecord\": false," +
-            "            \"protocol\": \"hls0\"," +
-            "            \"name\": \"mkv-2\"," +
-            "            \"playUrl\": \"test2.mp4\"" +
-            "        }," +
-            "        {" +
-            "            \"provider\": \"ott\"," +
-            "            \"guid\": \"c4969444-1feb-49de-af20-0fc6feb6b4c5\"," +
-            "            \"level\": \"I\"," +
-            "            \"type\": \"live\"," +
-            "            \"hits\": 0," +
-            "            \"channelId\": 1," +
-            "            \"catchupDays\": 0," +
-            "            \"allowRecord\": false," +
-            "            \"protocol\": \"hls0\"," +
-            "            \"name\": \"flv-3\"," +
-            "            \"playUrl\": \"test1.mp4\"" +
-            "        }," +
-            "        {" +
-            "            \"provider\": \"ott\"," +
-            "            \"guid\": \"c4969444-1feb-49de-af20-0fc6feb6b4c5\"," +
-            "            \"level\": \"I\"," +
-            "            \"type\": \"live\"," +
-            "            \"hits\": 0," +
-            "            \"channelId\": 1," +
-            "            \"catchupDays\": 0," +
-            "            \"allowRecord\": false," +
-            "            \"protocol\": \"hls0\"," +
-            "            \"name\": \"avi-4\"," +
-            "            \"playUrl\": \"test2.mp4\"" +
-            "        }," +
-            "        {" +
-            "            \"provider\": \"ott\"," +
-            "            \"guid\": \"c4969444-1feb-49de-af20-0fc6feb6b4c5\"," +
-            "            \"level\": \"I\"," +
-            "            \"type\": \"live\"," +
-            "            \"hits\": 0," +
-            "            \"channelId\": 1," +
-            "            \"catchupDays\": 0," +
-            "            \"allowRecord\": false," +
-            "            \"protocol\": \"hls0\"," +
-            "            \"name\": \"rmvb-5\"," +
-            "            \"playUrl\": \"test1.mp4\"" +
-            "        }," +
-            "        {" +
-            "            \"provider\": \"ott\"," +
-            "            \"guid\": \"c4969444-1feb-49de-af20-0fc6feb6b4c5\"," +
-            "            \"level\": \"I\"," +
-            "            \"type\": \"live\"," +
-            "            \"hits\": 0," +
-            "            \"channelId\": 1," +
-            "            \"catchupDays\": 0," +
-            "            \"allowRecord\": false," +
-            "            \"protocol\": \"hls0\"," +
-            "            \"name\": \"swf-6\"," +
-            "            \"playUrl\": \"test2.mp4\"" +
-            "        }," +
-            "        {" +
-            "            \"provider\": \"ott\"," +
-            "            \"guid\": \"c4969444-1feb-49de-af20-0fc6feb6b4c5\"," +
-            "            \"level\": \"I\"," +
-            "            \"type\": \"live\"," +
-            "            \"hits\": 0," +
-            "            \"channelId\": 1," +
-            "            \"catchupDays\": 0," +
-            "            \"allowRecord\": false," +
-            "            \"protocol\": \"hls0\"," +
-            "            \"name\": \"wmv-7\"," +
-            "            \"playUrl\": \"test1.mp4\"" +
-            "        }," +
-            "        {" +
-            "            \"provider\": \"ott\"," +
-            "            \"guid\": \"c4969444-1feb-49de-af20-0fc6feb6b4c5\"," +
-            "            \"level\": \"I\"," +
-            "            \"type\": \"live\"," +
-            "            \"hits\": 0," +
-            "            \"channelId\": 1," +
-            "            \"catchupDays\": 0," +
-            "            \"allowRecord\": false," +
-            "            \"protocol\": \"hls0\"," +
-            "            \"name\": \"vob-8\"," +
-            "            \"playUrl\": \"test2.mp4\"" +
-            "        }," +
-            "        {" +
-            "            \"provider\": \"ott\"," +
-            "            \"guid\": \"c4969444-1feb-49de-af20-0fc6feb6b4c5\"," +
-            "            \"level\": \"I\"," +
-            "            \"type\": \"live\"," +
-            "            \"hits\": 0," +
-            "            \"channelId\": 1," +
-            "            \"catchupDays\": 0," +
-            "            \"allowRecord\": false," +
-            "            \"protocol\": \"hls0\"," +
-            "            \"name\": \"mpg-9\"," +
-            "            \"playUrl\": \"test1.mp4\"" +
-            "        }," +
-            "        {" +
-            "            \"provider\": \"ott\"," +
-            "            \"guid\": \"c4969444-1feb-49de-af20-0fc6feb6b4c5\"," +
-            "            \"level\": \"I\"," +
-            "            \"type\": \"live\"," +
-            "            \"hits\": 0," +
-            "            \"channelId\": 1," +
-            "            \"catchupDays\": 0," +
-            "            \"allowRecord\": false," +
-            "            \"protocol\": \"hls0\"," +
-            "            \"name\": \"mov-10\"," +
-            "            \"playUrl\": \"test2.mp4\"" +
-            "        }," +
-            "        {" +
-            "            \"provider\": \"ott\"," +
-            "            \"guid\": \"c4969444-1feb-49de-af20-0fc6feb6b4c5\"," +
-            "            \"level\": \"I\"," +
-            "            \"type\": \"live\"," +
-            "            \"hits\": 0," +
-            "            \"channelId\": 1," +
-            "            \"catchupDays\": 0," +
-            "            \"allowRecord\": false," +
-            "            \"protocol\": \"hls0\"," +
-            "            \"name\": \"3gp-11\"," +
-            "            \"playUrl\": \"test1.mp4\"" +
-            "        }," +
-            "        {" +
-            "            \"provider\": \"ott\"," +
-            "            \"guid\": \"c4969444-1feb-49de-af20-0fc6feb6b4c5\"," +
-            "            \"level\": \"I\"," +
-            "            \"type\": \"live\"," +
-            "            \"hits\": 0," +
-            "            \"channelId\": 1," +
-            "            \"catchupDays\": 0," +
-            "            \"allowRecord\": false," +
-            "            \"protocol\": \"hls0\"," +
-            "            \"name\": \"gif-12\"," +
-            "            \"playUrl\": \"test2.mp4\"" +
-            "        }," +
-            "        {" +
-            "            \"provider\": \"ott\"," +
-            "            \"guid\": \"c4969444-1feb-49de-af20-0fc6feb6b4c5\"," +
-            "            \"level\": \"I\"," +
-            "            \"type\": \"live\"," +
-            "            \"hits\": 0," +
-            "            \"channelId\": 1," +
-            "            \"catchupDays\": 0," +
-            "            \"allowRecord\": false," +
-            "            \"protocol\": \"hls0\"," +
-            "            \"name\": \"ts-13\"," +
-            "            \"playUrl\": \"test1.mp4\"" +
-            "        }," +
-            "        {" +
-            "            \"provider\": \"ott\"," +
-            "            \"guid\": \"c4969444-1feb-49de-af20-0fc6feb6b4c5\"," +
-            "            \"level\": \"I\"," +
-            "            \"type\": \"live\"," +
-            "            \"hits\": 0," +
-            "            \"channelId\": 1," +
-            "            \"catchupDays\": 0," +
-            "            \"allowRecord\": false," +
-            "            \"protocol\": \"hls0\"," +
-            "            \"name\": \"f4v-14\"," +
-            "            \"playUrl\": \"test2.mp4\"" +
-            "        }," +
-            "        {" +
-            "            \"provider\": \"ott\"," +
-            "            \"guid\": \"c4969444-1feb-49de-af20-0fc6feb6b4c5\"," +
-            "            \"level\": \"I\"," +
-            "            \"type\": \"live\"," +
-            "            \"hits\": 0," +
-            "            \"channelId\": 1," +
-            "            \"catchupDays\": 0," +
-            "            \"allowRecord\": false," +
-            "            \"protocol\": \"hls0\"," +
-            "            \"name\": \"m4v-15\"," +
-            "            \"playUrl\": \"test1.mp4\"" +
-            "        }," +
-            "        {" +
-            "            \"provider\": \"ott\"," +
-            "            \"guid\": \"c4969444-1feb-49de-af20-0fc6feb6b4c5\"," +
-            "            \"level\": \"I\"," +
-            "            \"type\": \"live\"," +
-            "            \"hits\": 0," +
-            "            \"channelId\": 1," +
-            "            \"catchupDays\": 0," +
-            "            \"allowRecord\": false," +
-            "            \"protocol\": \"hls0\"," +
-            "            \"name\": \"mts-16\"," +
-            "            \"playUrl\": \"test2.mp4\"" +
+            "            \"playUrl\": \"http://jzvd.nathen.cn/c6e3dc12a1154626b3476d9bf3bd7266/6b56c5f0dc31428083757a45764763b0-5287d2089db37e62345123a1be272f8b.mp4\"" +
             "        }," +
             "        {" +
             "            \"provider\": \"ott\"," +
@@ -228,7 +33,7 @@ public class SysConfig {
             "            \"allowRecord\": false," +
             "            \"protocol\": \"hls0\"," +
             "            \"name\": \"rm-17\"," +
-            "            \"playUrl\": \"test1.mp4\"" +
+            "            \"playUrl\": \"http://jzvd.nathen.cn/c6e3dc12a1154626b3476d9bf3bd7266/6b56c5f0dc31428083757a45764763b0-5287d2089db37e62345123a1be272f8b.mp4\"" +
             "        }," +
             "        {" +
             "            \"provider\": \"ott\"," +
@@ -241,7 +46,7 @@ public class SysConfig {
             "            \"allowRecord\": false," +
             "            \"protocol\": \"hls0\"," +
             "            \"name\": \"dat-18\"," +
-            "            \"playUrl\": \"test2.mp4\"" +
+            "            \"playUrl\": \"http://jzvd.nathen.cn/c6e3dc12a1154626b3476d9bf3bd7266/6b56c5f0dc31428083757a45764763b0-5287d2089db37e62345123a1be272f8b.mp4\"" +
             "        }" +
             "    ]" +
             "}";
